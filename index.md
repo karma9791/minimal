@@ -10,9 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Mirror Trading Fraud Detection
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In the world of trading, detecting Pre-arranged trading is very hard to detect and mirror trading is one them.
+The trading effectively act as a mechanism for moving money from one customer to another. 
+A customer engages in prearraged or other non-competitive securities trading, including washing or cross trades.
+Challange to detect such fraud is with the high volume of data comming every day, as well as each customer is required to compare with each customer on there trading pattern that too focus on multiple days of trading.
+
 
 ## Header 2
 
