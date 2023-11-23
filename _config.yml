@@ -3,10 +3,6 @@ logo: /assets/img/VijayKarma.jpg
 
 description:
   <p align="center">
-  <a href="/assets/img/Resume_Vijay_Karma3.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/vijay-karma-15a8a676/">LinkedIn</a> |
-  <a href="https://github.com/karma9791">GitHub</a>
-  
   <br>   
   9+ years of IT experience as Data Engineer, Developing, 
   Implementation of software applications which 
@@ -15,8 +11,5 @@ description:
   Snowflake, Apache Airflow and AWS
   <br>
   </p>
-
-
-
 theme: jekyll-theme-minimal
 
