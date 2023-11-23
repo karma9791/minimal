@@ -1,4 +1,4 @@
-# Banking Frauds
+# Anti Money Laundery
 ---
 ## Mirror Trading Fraud Detection
 
