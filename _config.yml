@@ -1,15 +1,6 @@
 title: <p align="center"> Vijay Karma </p>
 logo: /assets/img/VijayKarma.jpg
-
-description:
-  <p align="center">
-  <br>   
-  10 years of IT experience as Data Engineer, Developing, 
-  Implementation of software applications which 
-  includes 7 years of experience in Big Data using 
-  Spark, Scala, Python, Java, Hadoop, Hive, 
-  Snowflake, Apache Airflow and AWS
-  <br>
-  </p>
+description: 9+ years of IT experience as Data Engineer, Developing, Implementation of software applications which includes 7 years of experience in Big Data using Spark, Scala, Python, Java, Hadoop, Hive, Snowflake, Apache Airflow and AWS
+show_downloads: true
 theme: jekyll-theme-minimal
 
